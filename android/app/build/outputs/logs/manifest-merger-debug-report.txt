@@ -4,6 +4,7 @@ ADDED from D:\IVAN\Learn\React Native\rn-course\android\app\src\main\AndroidMani
 INJECTED from D:\IVAN\Learn\React Native\rn-course\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from D:\IVAN\Learn\React Native\rn-course\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from D:\IVAN\Learn\React Native\rn-course\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] D:\IVAN\Learn\React Native\rn-course\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\kanc\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\b27b9c27fe9e7ed21ff05f7dd0806dc4\AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\kanc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\f3033dd67e74a500f48f8f6cee052fc1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:support-v4:23.0.1] C:\Users\kanc\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\8874870c8d5fb65637e350751c802346\AndroidManifest.xml:17:1-24:12
@@ -93,6 +94,8 @@ uses-sdk
 INJECTED from D:\IVAN\Learn\React Native\rn-course\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\IVAN\Learn\React Native\rn-course\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\IVAN\Learn\React Native\rn-course\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] D:\IVAN\Learn\React Native\rn-course\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\IVAN\Learn\React Native\rn-course\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\kanc\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\b27b9c27fe9e7ed21ff05f7dd0806dc4\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\kanc\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\b27b9c27fe9e7ed21ff05f7dd0806dc4\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\kanc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\f3033dd67e74a500f48f8f6cee052fc1\AndroidManifest.xml:20:5-43
