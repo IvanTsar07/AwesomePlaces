@@ -60,12 +60,12 @@ const styles = StyleSheet.create({
     deleteButton: {
         alignItems: 'center',
         width: 50,
-        heigt: 50
+        height: 50
     },
     closeButton: {
         alignItems: 'center',
         width: 50,
-        heigt: 50
+        height: 50
     }
 });
 

@@ -4,22 +4,14 @@
             "outputFile": "D:\\IVAN\\Learn\\React Native\\rn-course\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\f3033dd67e74a500f48f8f6cee052fc1\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\kanc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\d88e6908fcde315ffa2e1ca494893fa6\\res\\values-v22\\values-v22.xml",
                     "from": {
-                        "startLines": "4,5,6,9",
+                        "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "285,360,447,628",
-                        "endLines": "4,5,8,11",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
                         "endColumns": "74,86,12,12",
-                        "endOffsets": "355,442,623,816"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,7",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,130,217,398",
-                        "endLines": "2,3,6,9",
-                        "endColumns": "74,86,12,12",
-                        "endOffsets": "125,212,393,586"
+                        "endOffsets": "125,212,548,896"
                     }
                 }
             ]
