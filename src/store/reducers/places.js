@@ -1,8 +1,6 @@
 import { 
     ADD_PLACE, 
-    DELETE_PLACE, 
-    DESELECT_PLACE, 
-    SELECT_PLACE 
+    DELETE_PLACE 
 } from '../actions/actionTypes'
 
 const initialState = {
@@ -20,7 +18,8 @@ const reducer = (state = initialState, action) => {
                     name: action.placeName,
                     image: {
                         uri: "https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&h=350"
-                    }
+                    },
+                    location: action.location
                 })
             };
             break;

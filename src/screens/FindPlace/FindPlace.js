@@ -68,6 +68,8 @@ class FindPlace extends Component {
                         <Text style={styles.searchButtonText}>Find Places</Text>
                     </View>
                 </TouchableOpacity>
+
+                {console.log(this.props)}
             </Animated.View>
         );
 
